@@ -8,6 +8,6 @@ Olá! Eu sou Thiago!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thiago-jesus-lemes-6a1441187/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ThiagoTJL)
 
-## Habilidades
+## Atualmente estou estudando:
 
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=fff)](https://docs.python.org/)
